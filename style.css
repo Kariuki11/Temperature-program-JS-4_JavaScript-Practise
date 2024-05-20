@@ -43,5 +43,10 @@ button{
 }
 
 button:hover{
-    
+    background-color: hsl(0, 100%, 50%);
+}
+
+#result{
+    font-size: 1.75em;
+    font-weight: bold;
 }
